@@ -4,9 +4,9 @@ Currently working on : Clock Driven Scheduling.
 
 Past works (in order of completion): 
 
-1. [Schedulers: Basics(Chap 3)]()
+1. [Schedulers: Basics(Chap 3)](https://github.com/richidubey/Real-Time-Systems/tree/master/Schedulers/Basics)
 
-
+*** 
 
 
 
